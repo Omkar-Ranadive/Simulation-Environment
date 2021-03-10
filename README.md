@@ -3,7 +3,7 @@
 A simulation environment for training and testing autonomous driving agents. The environment has features like customizable car parameters and sensors, different terrains, customizable data extraction parameters, and simulated pedestrian and vehicular traffic. The environment can connect to any learning agent via a communication interface.
 <br>
 <br>
-Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367735
+<b>Paper:</b> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367735
 <br>
 <b>Note:</b> This repository only contains the important .py/.cs files and not the entire source code of the project. 
 
