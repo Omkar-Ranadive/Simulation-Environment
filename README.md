@@ -15,7 +15,7 @@ A simulation environment for training and testing autonomous driving agents. The
 ### Road editor 
 ![image](https://github.com/Omkar-Ranadive/Simulation-Environment/blob/master/Results/RoadEditor.gif)
 
-### Trained Supervised Agent completely a track in the environment 
+### Trained Supervised Agent completing a track in the environment 
 
 ![image](https://github.com/Omkar-Ranadive/Simulation-Environment/blob/master/Results/Supervised%20Agent%20with%20Positioning.gif)
 
